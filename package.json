@@ -1,0 +1,21 @@
+{
+    "name": "zone-green",
+    "displayName": "Zone Green",
+    "description": "A retro-futuristic but functional green theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zone Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zone Green-color-theme.json"
+            }
+        ]
+    }
+}
