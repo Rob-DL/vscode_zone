@@ -1,8 +1,13 @@
 {
     "name": "zone-green",
     "displayName": "Zone Green",
-    "description": "A retro-futuristic but functional green theme.",
-    "version": "0.0.1",
+    "description": "A retro, futuristic but functional green theme.",
+    "galleryBanner.color": "",
+    "icon": "logos/Zone-green.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Convolution/vscode_zone"},
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.45.0"
     },
