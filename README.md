@@ -7,4 +7,4 @@ While this theme wouldn't look out of place in your favorite 80s flick, it was a
 
 **Enjoy!**
 
-![Screenshot of Zone green](https://github.com/Convolution/vscode_zone/blob/master/logos/screenshot.png)
+![Screenshot of Zone green](logos/screenshot.png)
