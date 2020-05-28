@@ -1,4 +1,4 @@
-# README
+# Zone Green theme for VS Code
 
 Retro, corny, but oddly satisfying theme for Visual Studio Code.
 You may not be world's best hacker, but with this, nobody will notice.
