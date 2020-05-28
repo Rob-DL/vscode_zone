@@ -1,13 +1,8 @@
 # README
-## This is the README for your extension "zone-green"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Retro, corny, but oddly satisfying theme for Visual Studio Code.
+You may not be world's best hacker, but with this, nobody will notice.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+While this theme wouldn't look out of place in your favorite 80s flick, it was also created to reduce the number of distractions, allowing you to get into the Zone more easily. The monochrome green colors of the interface and vibrant syntax coloring allow your to focus on what's important.
 
 **Enjoy!**
