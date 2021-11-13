@@ -20,6 +20,11 @@
                 "label": "Zone Green",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Zone Green-color-theme.json"
+            },
+            {
+                "label": "Zone Green Mellow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zone Green Mellow-color-theme.json"
             }
         ]
     }
