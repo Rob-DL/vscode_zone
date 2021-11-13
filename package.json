@@ -2,6 +2,7 @@
     "name": "zone-green",
     "displayName": "Zone Green",
     "description": "A retro, futuristic but functional green theme.",
+    "publisher": "Convolution",
     "galleryBanner.color": "",
     "icon": "logos/Zone-green.png",
     "repository": {
